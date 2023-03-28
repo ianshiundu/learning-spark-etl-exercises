@@ -1,8 +1,8 @@
-# jupyter-spark Docker container
+# Learning Spark 2nd Edition End to End Exercise solutions
 
-## Setup
-- If you'll need to load a dataset, you can add the files inside the data folder or update the volumes in the docker-compose.yml pointing to where your data directory is.
-- If you'll need to add some notebooks, you can add them in the notebooks directory, there's where your notebooks will be stored. 
+This repo contains data exploration and ETL exercise solutions from _Learning Spark, 2nd
+Edition, by Jules S. Damji, Brooke Wenig, Tathagata Das, and Denny Lee. Copyright
+2020 Databricks, Inc., 978-1-492-05004-9_.
 
 ## Running
 To start the docker container, simply run this command:
